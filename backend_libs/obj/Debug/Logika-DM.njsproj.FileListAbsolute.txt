@@ -1,0 +1,3 @@
+D:\projects\katya\code\logika-dm\obj\Debug\Logika-DM.njsproj.AssemblyReference.cache
+D:\projects\katya\code\logika-dm\obj\Debug\Logika-DM.njsproj.CoreCompileInputs.cache
+D:\projects\katya\code\logika-dm\bin\Microsoft.NodejsTools.WebRole.dll
