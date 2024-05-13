@@ -1,0 +1,2 @@
+# diploma
+logika libs typescript
